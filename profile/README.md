@@ -2,7 +2,7 @@
 
 This Repository is to enable Self Service Requesting of Projects driven from Ivanti 
 
-## Important Repos
+## Project Factory Repos
 
 | Repo | Description | Link |
 | ----------- | ----------- | ----------- |
