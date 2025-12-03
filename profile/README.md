@@ -4,7 +4,7 @@ This Repository is to enable Self Service Requesting of Projects driven from Iva
 
 ## Important Repos
 
-| Repo | Description | Link|
+| Repo | Description | Link |
 | ----------- | ----------- | ----------- |
 | `project_factory` | Holds the Automation for the Repository and Guides for the overall Project Factory | [Link](https://github.com/Department-for-Transport-Cloud-Infra/project_factory) |
 | `terraform_create_tier` | Project Factory Stage, handles basic Project Creation. | [Link](https://github.com/Department-for-Transport-Cloud-Infra/terraform_create_tier) |
@@ -12,3 +12,9 @@ This Repository is to enable Self Service Requesting of Projects driven from Iva
 | `terraform_config_tier` | Largest Factory stage manages more bespoke configurations for a project and specific APIS and IAM Roles. | [Link](https://github.com/Department-for-Transport-Cloud-Infra/terraform_config_tier) |
 | `terraform_modules` | Module Catalogue with avaliable Modules to be used during the Construct Stage. | [Link](https://github.com/Department-for-Transport-Cloud-Infra/terraform_modules) |
 | `completion_notifications` | Raises Notifications for developers that have requested a Project Creation / Update. If you have requested a project you can find the latest status update here. | [Link](https://github.com/Department-for-Transport-Cloud-Infra/completion_notifications) |
+
+## GCP Factory Offerings
+
+| Repo | Description | Link |
+| ----------- | ----------- | ----------- |
+| `basic_gcp_storage_factory` | Repository that helps create a quick GCS Bucket and Bigquery tables and datasets.  | [Link](https://github.com/Department-for-Transport-Cloud-Infra/basic_gcp_storage_factory) |
