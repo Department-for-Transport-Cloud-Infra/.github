@@ -17,4 +17,4 @@ This Repository is to enable Self Service Requesting of Projects driven from Iva
 
 | Repo | Description | Link |
 | ----------- | ----------- | ----------- |
-| `basic_gcp_storage_factory` | Also known as Bucket Factory, a repository for creating GCS Buckets and Bigquery Datasets and Tables quickly and easily  | [Link](https://github.com/Department-for-Transport-Cloud-Infra/basic_gcp_storage_factory) |
+| `basic_gcp_storage_factory` | Also known as <ins>**Bucket Factory**</ins>, a repository for creating GCS Buckets and Bigquery Datasets and Tables quickly and easily  | [Link](https://github.com/Department-for-Transport-Cloud-Infra/basic_gcp_storage_factory) |
